@@ -1,0 +1,12 @@
+{
+  "name": "desafio3",
+  "version": "1.0.0",
+  "description": "desafio3",
+  "main": "main.js",
+  "scripts": {},
+  "author": "Juan Gabriel Navarrete",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

@@ -1,0 +1,26 @@
+[
+     {
+        "id": 1,
+        "title": "zapatillas1",
+        "price": 20500,
+        "thumbnail": "www.zapatillas1.com"
+        },    
+{
+        "id": 2,
+        "title": "zapatillas2",
+        "price": 24000,
+        "thumbnail": "www.zapatillas2.com"
+        },  
+        {
+        "id": 3,
+        "title": "zapatillas3",
+        "price": 32000,
+        "thumbnail": "www.zapatillas3.com"
+        },  
+        {
+        "id": 4,
+        "title": "zapatillas4",
+        "price": 26000,
+        "thumbnail": "www.zapatillas4.com"
+        },  
+]
